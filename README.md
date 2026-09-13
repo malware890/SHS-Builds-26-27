@@ -1,2 +1,2 @@
-# Moonlight-Builds-26-27
-Moonlight Builds | 2026-2027 | Stevenson Computer Science Club
+# SHS-Builds-26-27
+SHS Builds | 2026-2027 | Stevenson Computer Science Club
